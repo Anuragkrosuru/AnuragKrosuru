@@ -119,7 +119,7 @@ I'm passionate about building scalable software solutions that solve real-world 
 > 
 > **Current Experiences:** Software Engineering Intern @ Ford Motor Company (May 2025 - Aug 2025)
 > 
-> **Education:** B.S.E Computer Science, Minor in Entrepreneurship @ University of Michigan
+> **Education:** B.S.E Computer Science @ University of Michigan
 
 <!--
      What I'm currently working on!

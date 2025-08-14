@@ -11,6 +11,11 @@
 ### My mission
 I'm passionate about building scalable software solutions that solve real-world problems! As a Computer Science student, I love bridging the gap between technical innovation and business value. My mission is to create robust, cloud-native applications that drive efficiency and make a meaningful impact.
 
+### Experience
+- **Software Engineering Intern** @ Ford Motor Company (May 2025 - Aug 2025)
+- **Research Assistant** @ University of Michigan (March 2025 - July 2025)
+- **Director of Technology** @ Zeta Pi Professional Technology Fraternity
+
 <!--
      This is the list of my skills and tools I am studying!
 -->
@@ -58,39 +63,58 @@ I'm passionate about building scalable software solutions that solve real-world 
 
 #### 🏆 CodeQuacker - Hackathon Winner
 *AI-powered debugging tool using Google Breadboard and OpenAI APIs*
-- **Tech Stack:** Flask, Bootstrap, MySQL, OpenAI API, Google Breadboard
-- **Achievement:** 1st Place at Hack4SocialGood
-- **Impact:** Reduced debugging time by 30% for students
+
+**Tech Stack:** Flask, Bootstrap, MySQL, OpenAI API, Google Breadboard  
+**Achievement:** 1st Place at Hack4SocialGood  
+**Impact:** Reduced debugging time by 30% for students
+
+---
 
 #### 🔍 Search Engine with MapReduce
 *Custom search engine processing 20,000+ HTML documents*
-- **Tech Stack:** Python, MapReduce, Flask, SQLite, BeautifulSoup
-- **Features:** PageRank algorithm, inverted index, parallel processing
-- **Performance:** 60% boost in query performance via multithreading
+
+**Tech Stack:** Python, MapReduce, Flask, SQLite, BeautifulSoup  
+**Features:** PageRank algorithm, inverted index, parallel processing  
+**Performance:** 60% boost in query performance via multithreading
+
+---
 
 #### 📱 Instagram Clone
 *Full-stack social media platform with React and Node.js*
-- **Tech Stack:** React, Node.js, AWS, Flask, SQLite
-- **Features:** Infinite scrolling, double-click-to-like, comments
-- **Deployment:** AWS EC2 with Nginx and Gunicorn
+
+**Tech Stack:** React, Node.js, AWS, Flask, SQLite  
+**Features:** Infinite scrolling, double-click-to-like, comments  
+**Deployment:** AWS EC2 with Nginx and Gunicorn
+
+---
 
 ### Additional Projects
 
 #### 📝 Text Editor
 *Custom text editor*
-- **Features:** Basic Text Editor
+
+**Features:** Basic Text Editor
+
+---
 
 #### 🎓 Piazza Post Classifier
 *Machine learning tool to categorize and organize educational forum posts*
-- **Features:** Text classification, sentiment analysis, automated tagging
+
+**Features:** Text classification, Bag-of-Words Model
+
+---
 
 #### 🖼️ Image Resizing
 *Efficient image processing tool with resizing algorithm*
-- **Features:** Resizing algorithm
+
+**Features:** Resizing algorithm
+
+---
 
 #### 🕸️ Graph Traversal
 *Graph algorithms and pathfinding*
-- **Features:** MST, TSP, Dijsktras
+
+**Features:** MST, TSP, Dijkstra's
 
 <!--
      Fast links to my socials!

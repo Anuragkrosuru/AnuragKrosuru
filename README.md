@@ -1,10 +1,3 @@
-!--
-    Hey there, I'm Anurag Krosuru!
-    Happy to see you here exploring my README code
-    Feel free to inspire!
-    
--->
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">

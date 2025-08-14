@@ -90,7 +90,7 @@ I'm passionate about building scalable software solutions that solve real-world 
 
 #### 🕸️ Graph Traversal
 *Graph algorithms and pathfinding*
-- **Features:** MST, BFS, Dijsktras
+- **Features:** MST, TSP, Dijsktras
 
 <!--
      Fast links to my socials!

@@ -140,10 +140,11 @@ I'm passionate about building scalable software solutions that solve real-world 
 
 ### 🌟 What I'm Up To
 
-- 🔧 Building enterprise-grade FastAPI applications at Ford Motor Company
-- 📊 Researching PostgreSQL query optimization and data pipelines
-- 🚀 Leading technology initiatives at Zeta Pi Professional Technology Fraternity
-- 🎯 Exploring cloud-native architectures and microservices
+-🏃 Staying active through recreational sports and fitness activities
+-🍳 Experimenting with new cooking recipes
+-₿ Following trends in the latest cryptocurrency 
+-🤔 Reading philosophy to explore new perspectives
+
 
 <!--
      Thanks for being my guest <3

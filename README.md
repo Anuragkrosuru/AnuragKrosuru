@@ -140,10 +140,10 @@ I'm passionate about building scalable software solutions that solve real-world 
 
 ### 🌟 What I'm Up To
 
-- **🏃 Staying active through recreational sports and fitness activities
-- **🍳 Experimenting with new cooking recipes
-- **₿ Following trends in the latest cryptocurrency 
-- **🤔 Reading philosophy to explore new perspectives
+- 🏃 Staying active through recreational sports and fitness activities
+- 🍳 Experimenting with new cooking recipes
+- ₿ Following trends in the latest cryptocurrency 
+- 🤔 Reading philosophy to explore new perspectives
 
 
 <!--

@@ -9,7 +9,7 @@
 -->
 
 ### My mission
-I'm passionate about building scalable software solutions that solve real-world problems! As a Computer Science student, I love bridging the gap between technical innovation and business value. My mission is to create robust, cloud-native applications that drive efficiency and make a meaningful impact.
+I'm passionate about building scalable software solutions that solve real-world problems! As a Computer Science student, I love bridging the gap between technical innovation and business value.
 
 ### Experience
 - **Software Engineering Intern** @ Ford Motor Company (May 2025 - Aug 2025)

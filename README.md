@@ -150,6 +150,7 @@ I'm passionate about building scalable software solutions that solve real-world 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuragkrosuru&show_icons=true&theme=blue&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkrosuru&theme=blue&hide_border=true&layout=compact)
 
+Note: this does not include my company commits, merges, etc
 <!--
      Thanks for being my guest <3
 -->

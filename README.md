@@ -145,6 +145,10 @@ I'm passionate about building scalable software solutions that solve real-world 
 - ₿ Following trends in the latest cryptocurrency 
 - 🤔 Reading philosophy to explore new perspectives
 
+### 📊 GitHub Activity
+![GitHub Streak](https://streak-stats.demolab.com/?user=Anuragkrosuru&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuragkrosuru&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkrosuru&theme=radical&hide_border=true&layout=compact)
 
 <!--
      Thanks for being my guest <3

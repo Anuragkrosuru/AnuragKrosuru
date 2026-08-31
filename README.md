@@ -4,6 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0078D4&width=435&lines=Hey%2C+it's+Anurag!;Backend+Software+Engineer" alt="Backend Software Engineer"/>
 </a>
 
+### 📌 Featured Repositories
+
+[![CodeQuacker](https://img.shields.io/badge/GitHub-CodeQuacker-181717?style=for-the-badge&logo=github)](https://github.com/muhrauf12/Quack-)
+[![Kiwifruit](https://img.shields.io/badge/GitHub-Kiwifruit-181717?style=for-the-badge&logo=github)](https://github.com/Swesik/kiwifruit)
+[![Search Engine](https://img.shields.io/badge/GitHub-Search_Engine-181717?style=for-the-badge&logo=github)](https://github.com/Anuragkrosuru/SearchEngine)
+[![Instagram Clone](https://img.shields.io/badge/GitHub-Instagram_Clone-181717?style=for-the-badge&logo=github)](https://github.com/Anuragkrosuru/InstagramClone)
+[![Zeta Pi](https://img.shields.io/badge/GitHub-Zeta_Pi-181717?style=for-the-badge&logo=github)](https://github.com/Zeta-Pi-UofM/zetapi.github.io)
+[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/Anuragkrosuru/anuragkrosuru.github.io)
+
 <!--
 
 -->
@@ -86,6 +95,37 @@ I'm passionate about building scalable backend systems that solve real-world pro
 
 **Recommendation Engine:** Built a dynamic, session-based feedback loop using real-time preference signals and OpenLibrary data<br>
 **Computer Vision:** Developed an on-device pipeline that maps seven detected emotions to three moods using AVFoundation, Apple Vision, and CoreML
+
+---
+
+### Additional Projects
+
+#### 📱 Instagram Clone
+*Full-stack social media platform with React and Node.js*
+
+**Tech Stack:** React, Node.js, AWS, Flask, SQLite<br>
+**Features:** Infinite scrolling, double-click-to-like, and comments<br>
+**Deployment:** AWS EC2 with Nginx and Gunicorn
+
+---
+
+#### 📝 Text Editor
+*Custom text editor with core text-editing functionality*
+
+---
+
+#### 🎓 Piazza Post Classifier
+*Machine learning tool for categorizing educational forum posts using a Bag-of-Words model*
+
+---
+
+#### 🖼️ Image Resizing
+*Efficient image-processing project implementing a custom resizing algorithm*
+
+---
+
+#### 🕸️ Graph Traversal
+*Graph algorithms and pathfinding project featuring MST, TSP, and Dijkstra's algorithm*
 
 <!--
      Fast links to my socials!

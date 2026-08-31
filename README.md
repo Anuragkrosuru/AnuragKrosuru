@@ -4,15 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0078D4&width=435&lines=Hey%2C+it's+Anurag!;Backend+Software+Engineer" alt="Backend Software Engineer"/>
 </a>
 
-### 📌 Featured Repositories
-
-[![CodeQuacker](https://img.shields.io/badge/GitHub-CodeQuacker-181717?style=for-the-badge&logo=github)](https://github.com/muhrauf12/Quack-)
-[![Kiwifruit](https://img.shields.io/badge/GitHub-Kiwifruit-181717?style=for-the-badge&logo=github)](https://github.com/Swesik/kiwifruit)
-[![Search Engine](https://img.shields.io/badge/GitHub-Search_Engine-181717?style=for-the-badge&logo=github)](https://github.com/Anuragkrosuru/SearchEngine)
-[![Instagram Clone](https://img.shields.io/badge/GitHub-Instagram_Clone-181717?style=for-the-badge&logo=github)](https://github.com/Anuragkrosuru/InstagramClone)
-[![Zeta Pi](https://img.shields.io/badge/GitHub-Zeta_Pi-181717?style=for-the-badge&logo=github)](https://github.com/Zeta-Pi-UofM/zetapi.github.io)
-[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/Anuragkrosuru/anuragkrosuru.github.io)
-
 <!--
 
 -->

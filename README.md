@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0078D4&width=435&lines=Hey%2C+it's+Anurag!;Software+Engineer" alt="Software Engineer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0078D4&width=435&lines=Hey%2C+it's+Anurag!;Backend+Software+Engineer" alt="Backend Software Engineer"/>
 </a>
 
 <!--
@@ -9,51 +9,53 @@
 -->
 
 ### My mission
-I'm passionate about building scalable software solutions that solve real-world problems! As a Computer Science student, I love bridging the gap between technical innovation and business value.
+I'm passionate about building scalable backend systems that solve real-world problems. I'm pursuing a B.S.E. in Computer Science with a minor in Electrical Engineering at the University of Michigan, where I bridge distributed systems, machine learning, and product-focused engineering.
 
 ### Experience
-- **Software Engineering Intern** @ Ford Motor Company (May 2025 - Aug 2025)
-- **Research Assistant** @ University of Michigan (March 2025 - July 2025)
-- **Director of Technology** @ Zeta Pi Professional Technology Fraternity
+- **Software Engineering Intern (Backend)** @ DraftKings (June 2026 - Present)
+- **Software Engineering Intern (Backend)** @ Ford Motor Company (May 2025 - August 2025)
+- **Machine Learning Research Assistant** @ University of Michigan (March 2025 - July 2025)
 
 <!--
-     This is the list of my skills and tools I am studying!
+     This is the list of my skills and tools!
 -->
 
 ### Main skills
 
 #### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&title=Python)
+![C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&title=C%2FC%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&title=JavaScript)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&title=C++)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&title=C#)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&title=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white&title=SQL)
+![C#](https://img.shields.io/badge/-C%23%2F.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white&title=C%23%2F.NET)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white&title=Swift)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white&title=Java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&title=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&title=CSS3)
 
-#### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&title=React)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black&title=React%20Native)
+#### Frameworks & Technologies
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white&title=Kafka)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&title=FastAPI)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&title=Node.js)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&title=React)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white&title=Flask)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white&title=Bootstrap)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&title=Flutter)
+![Microsoft Graph](https://img.shields.io/badge/-Microsoft%20Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white&title=Microsoft%20Graph)
 
 #### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&title=AWS)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white&title=Azure)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white&title=Docker)
+![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white&title=Terraform)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black&title=Linux)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&title=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&title=GitHub)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white&title=Nginx)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&title=Postman)
+![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white&title=Datadog)
 
 #### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&title=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&title=PostgreSQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white&title=SQLite)
-
-### Currently Learning
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white&title=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&title=Kubernetes)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&title=PostgreSQL)
 
 <!--
      My notable projects and achievements!
@@ -62,59 +64,28 @@ I'm passionate about building scalable software solutions that solve real-world 
 ### Notable Projects
 
 #### 🏆 CodeQuacker - Hackathon Winner
-*AI-powered debugging tool using Google Breadboard and OpenAI APIs*
+*AI-powered debugging platform built with Flask, Bootstrap, MySQL, OpenAI API, and Google Breadboard*
 
-**Tech Stack:** Flask, Bootstrap, MySQL, OpenAI API, Google Breadboard  
-**Achievement:** 1st Place at Hack4SocialGood  
-**Impact:** Reduced debugging time by 30% for students
+**Achievement:** 1st Place at Hack For Social Good<br>
+**Impact:** Reduced debugging time for students by 30% through speech- and text-based problem articulation<br>
+**Engineering:** Built a scalable full-stack platform and RESTful APIs in a team of four
 
 ---
 
 #### 🔍 Search Engine with MapReduce
-*Custom search engine processing 20,000+ HTML documents*
+*Distributed search engine built with Python, MapReduce, Flask, SQLite, BeautifulSoup, and multithreading*
 
-**Tech Stack:** Python, MapReduce, Flask, SQLite, BeautifulSoup  
-**Features:** PageRank algorithm, inverted index, parallel processing  
-**Performance:** 60% boost in query performance via multithreading
-
----
-
-#### 📱 Instagram Clone
-*Full-stack social media platform with React and Node.js*
-
-**Tech Stack:** React, Node.js, AWS, Flask, SQLite  
-**Features:** Infinite scrolling, double-click-to-like, comments  
-**Deployment:** AWS EC2 with Nginx and Gunicorn
+**Scale:** Processed 20,000+ HTML documents and returned the top 10 ranked results<br>
+**Architecture:** Built an inverted index with PageRank, a centralized Search server, and three Index servers<br>
+**Performance:** Improved query performance by 60% through parallelization and multithreaded TCP/UDP communication
 
 ---
 
-### Additional Projects
+#### 📚 Kiwifruit
+*AI-powered book recommendation app built with SwiftUI, Python, Apple Vision, CoreML, SQLite, and AWS*
 
-#### 📝 Text Editor
-*Custom text editor*
-
-**Features:** Basic Text Editor
-
----
-
-#### 🎓 Piazza Post Classifier
-*Machine learning tool to categorize and organize educational forum posts*
-
-**Features:** Text classification, Bag-of-Words Model
-
----
-
-#### 🖼️ Image Resizing
-*Efficient image processing tool with resizing algorithm*
-
-**Features:** Resizing algorithm
-
----
-
-#### 🕸️ Graph Traversal
-*Graph algorithms and pathfinding*
-
-**Features:** MST, TSP, Dijkstra's
+**Recommendation Engine:** Built a dynamic, session-based feedback loop using real-time preference signals and OpenLibrary data<br>
+**Computer Vision:** Developed an on-device pipeline that maps seven detected emotions to three moods using AVFoundation, Apple Vision, and CoreML
 
 <!--
      Fast links to my socials!
@@ -133,24 +104,24 @@ I'm passionate about building scalable software solutions that solve real-world 
     </a>
 </div>
 
-
 <!--
      What I'm currently working on!
 -->
 
 ### 🌟 What I'm Up To
 
-- 🏃 Staying active through recreational sports and fitness activities
-- 🍳 Experimenting with new cooking recipes
-- ₿ Following trends in the latest cryptocurrency 
-- 🤔 Reading philosophy to explore new perspectives
+- 🎓 Completing my Computer Science degree and Electrical Engineering minor at the University of Michigan (May 2027)
+- 🎮 Competing as a Top 500 Overwatch player in North America
+- ⚽ Playing intramural soccer and spikeball
+- 🍳 Experimenting with new recipes as an avid cook
 
 ### 📊 GitHub Activity
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Anuragkrosuru&theme=blue&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuragkrosuru&show_icons=true&theme=blue&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkrosuru&theme=blue&hide_border=true&layout=compact)
 
-Note: this does not include my company/school commits, merges, etc
+Note: this does not include my company/school commits, merges, etc.
+
 <!--
      Thanks for being my guest <3
 -->

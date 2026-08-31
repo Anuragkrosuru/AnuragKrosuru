@@ -12,7 +12,7 @@
 I'm passionate about building scalable backend systems that solve real-world problems. I'm pursuing a B.S.E. in Computer Science with a minor in Electrical Engineering at the University of Michigan, where I bridge distributed systems, machine learning, and product-focused engineering.
 
 ### Experience
-- **Software Engineering Intern (Backend)** @ DraftKings (June 2026 - Present)
+- **Software Engineering Intern (Backend)** @ DraftKings (June 2026 - August 2026)
 - **Software Engineering Intern (Backend)** @ Ford Motor Company (May 2025 - August 2025)
 - **Machine Learning Research Assistant** @ University of Michigan (March 2025 - July 2025)
 

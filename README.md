@@ -13,9 +13,9 @@
 ### About me
 
 - 🎓 Studying **Computer Science** at the **University of Michigan**, with a minor in Electrical Engineering — graduating May 2027
-- 💻 Previously **Backend SWE Intern at DraftKings**
-- 💻 Previously **Backend SWE Intern at Ford Motor Company**
-- 🛠️ **Tech at Zeta Pi**, a professional fraternity
+- 💻 Previously **SWE Intern at DraftKings**
+- 💻 Previously **SWE Intern at Ford Motor Company**
+- 🛠️ **Director of Tech at Zeta Pi**, a professional fraternity
 - 🔬 Former **Machine Learning Research Assistant** at the University of Michigan
 - 🛠️ Building scalable backend systems, data pipelines, and useful applications
 

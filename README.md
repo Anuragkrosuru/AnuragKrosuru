@@ -16,8 +16,6 @@
 - 💻 Previously **Backend SWE Intern at DraftKings** and **Ford Motor Company**
 - 🔬 Former **Machine Learning Research Assistant** at the University of Michigan
 - 🛠️ Building scalable backend systems, data pipelines, and useful applications
-- 🎮 Top 500 Overwatch player in North America
-- ⚽ Intramural soccer, spikeball, and experimenting in the kitchen
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anuragkro">LinkedIn</a> &nbsp;·&nbsp;

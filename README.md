@@ -8,7 +8,7 @@
 
 ### About me
 
-- Studying **Computer Science** at the **University of Michigan**, with a minor in Electrical Engineering — graduating May 2027
+- Studying **Computer Science** at the **University of Michigan**
 - Previously **SWE Intern at DraftKings**
 - Previously **SWE Intern at Ford Motor Company**
 - **Director of Tech at Zeta Pi**, a professional fraternity

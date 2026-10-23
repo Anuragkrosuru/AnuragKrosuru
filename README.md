@@ -12,12 +12,12 @@
 
 ### About me
 
-- 🎓 Studying **Computer Science** at the **University of Michigan**, with a minor in Electrical Engineering — graduating May 2027
-- 💻 Previously **SWE Intern at DraftKings**
-- 💻 Previously **SWE Intern at Ford Motor Company**
-- 🛠️ **Director of Tech at Zeta Pi**, a professional fraternity
-- 🔬 Former **Machine Learning Research Assistant** at the University of Michigan
-- 🛠️ Building scalable backend systems, data pipelines, and useful applications
+- Studying **Computer Science** at the **University of Michigan**, with a minor in Electrical Engineering — graduating May 2027
+- Previously **SWE Intern at DraftKings**
+- Previously **SWE Intern at Ford Motor Company**
+- **Director of Tech at Zeta Pi**, a professional fraternity
+- Former **Machine Learning Research Assistant** at the University of Michigan
+- Building scalable backend systems, data pipelines, and useful applications
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anuragkro">LinkedIn</a> &nbsp;·&nbsp;
@@ -32,6 +32,7 @@
 - **[Polymarket CopyLab](https://github.com/Anuragkrosuru/polymarket-copylab)** — Python toolkit for market-data collection, paper-trading experiments, and reporting.
 - **[Search Engine](https://github.com/Anuragkrosuru/SearchEngine)** — Distributed search across 20,000+ documents using MapReduce, TF-IDF, and PageRank.
 - **[Instagram Clone](https://github.com/Anuragkrosuru/InstagramClone)** — React and Flask application with infinite scrolling, likes, comments, and authentication.
+- **Kiwifruit** — AI-powered book recommendation app built with SwiftUI, Python, Apple Vision, and CoreML, combining preference feedback with on-device emotion detection.
 - **CodeQuacker** — AI-powered debugging platform; 1st place at Hack For Social Good.
 
 ---

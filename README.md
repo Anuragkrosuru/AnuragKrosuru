@@ -30,10 +30,10 @@
 ### A few things I've built
 
 - **[Polymarket CopyLab](https://github.com/Anuragkrosuru/polymarket-copylab)** — Python toolkit for market-data collection, paper-trading experiments, and reporting.
+- **[Kiwifruit](https://github.com/Swesik/kiwifruit)** — AI-powered book recommendation app built with SwiftUI, Python, Apple Vision, and CoreML, combining preference feedback with on-device emotion detection.
+- **[CodeQuacker](https://github.com/muhrauf12/Quack-)** — AI-powered debugging platform; 1st place at Hack For Social Good.
 - **[Search Engine](https://github.com/Anuragkrosuru/SearchEngine)** — Distributed search across 20,000+ documents using MapReduce, TF-IDF, and PageRank.
 - **[Instagram Clone](https://github.com/Anuragkrosuru/InstagramClone)** — React and Flask application with infinite scrolling, likes, comments, and authentication.
-- **Kiwifruit** — AI-powered book recommendation app built with SwiftUI, Python, Apple Vision, and CoreML, combining preference feedback with on-device emotion detection.
-- **CodeQuacker** — AI-powered debugging platform; 1st place at Hack For Social Good.
 
 ---
 

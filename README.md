@@ -4,10 +4,6 @@
   <img src="https://play.pokemonshowdown.com/sprites/ani/darkrai.gif" width="180" alt="Animated Darkrai sprite" />
 </p>
 
-<p align="center">
-  <samp>backend engineering · distributed systems · applied ML</samp>
-</p>
-
 ---
 
 ### About me

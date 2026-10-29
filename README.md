@@ -36,7 +36,6 @@
 ---
 
 <p align="center">
-  <img width="450" src="./assets/github-stats.svg" alt="Anurag's public GitHub statistics" />
   <img width="450" src="./assets/top-languages.svg" alt="Most-used languages across public repositories" />
 </p>
 

@@ -23,9 +23,11 @@
 
 ---
 
-### A few things I've built
+### In progress
 
-- **[Polymarket CopyLab](https://github.com/Anuragkrosuru/polymarket-copylab)** — Python toolkit for market-data collection, paper-trading experiments, and reporting.
+- **[Polymarket CopyLab](https://github.com/Anuragkrosuru/polymarket-copylab)** — Building a Python bot and toolkit for market-data collection, paper-trading experiments, and reporting.
+
+### A few things I've built
 - **[Kiwifruit](https://github.com/Swesik/kiwifruit)** — AI-powered book recommendation app built with SwiftUI, Python, Apple Vision, and CoreML, combining preference feedback with on-device emotion detection.
 - **[CodeQuacker](https://github.com/muhrauf12/Quack-)** — AI-powered debugging platform; 1st place at Hack For Social Good.
 - **[Search Engine](https://github.com/Anuragkrosuru/SearchEngine)** — Distributed search across 20,000+ documents using MapReduce, TF-IDF, and PageRank.
@@ -34,10 +36,11 @@
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anuragkrosuru&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=f87171&text_color=c9d1d9&hide_rank=true" alt="Anurag's GitHub activity statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkrosuru&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9" alt="Most-used languages across public repositories" />
+  <img width="450" src="./assets/github-stats.svg" alt="Anurag's public GitHub statistics" />
+  <img width="450" src="./assets/top-languages.svg" alt="Most-used languages across public repositories" />
 </p>
 
 <p align="center">
   <sub>Public GitHub activity reflects only part of my work.</sub>
 </p>
+

@@ -36,12 +36,10 @@
 ---
 
 <p align="center">
-  <img width="450" src="./assets/top-languages.svg" alt="Most-used languages across public and private repositories" />
+  <img width="450" src="./assets/top-languages.svg?v=2" alt="Most-used languages across public and private repositories" />
 </p>
 
 <p align="center">
-  <sub>Language percentages include public and private repositories, excluding forks, Jupyter notebooks, and Makefiles, and are based on code size.</sub>
-  <br />
   <sub>These stats reflect my personal GitHub repositories and don’t capture my work in company codebases.</sub>
 </p>
 

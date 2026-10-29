@@ -4,13 +4,15 @@
 <g font-family="Segoe UI,Arial,sans-serif">
 <text x="22" y="32" fill="#c4b5fd" font-size="19" font-weight="600">Most-used languages</text>
 <text x="22" y="62" fill="#c9d1d9" font-size="14">Python</text>
-<text x="425" y="62" text-anchor="end" fill="#c9d1d9" font-size="14">93.0%</text>
-<text x="22" y="85" fill="#c9d1d9" font-size="14">HTML</text>
-<text x="425" y="85" text-anchor="end" fill="#c9d1d9" font-size="14">5.4%</text>
-<text x="22" y="108" fill="#c9d1d9" font-size="14">C++</text>
-<text x="425" y="108" text-anchor="end" fill="#c9d1d9" font-size="14">1.0%</text>
-<text x="22" y="131" fill="#c9d1d9" font-size="14">JavaScript</text>
-<text x="425" y="131" text-anchor="end" fill="#c9d1d9" font-size="14">0.5%</text>
-<text x="22" y="154" fill="#c9d1d9" font-size="14">Shell</text>
-<text x="425" y="154" text-anchor="end" fill="#c9d1d9" font-size="14">0.1%</text>
-<text x="22" y="203" fill="#8b949e" font-size="10">By code bytes in public, non-fork repositories · 2026-10-29 UTC</text></g></svg>
+<text x="425" y="62" text-anchor="end" fill="#c9d1d9" font-size="14">79.2%</text>
+<text x="22" y="85" fill="#c9d1d9" font-size="14">Go</text>
+<text x="425" y="85" text-anchor="end" fill="#c9d1d9" font-size="14">11.5%</text>
+<text x="22" y="108" fill="#c9d1d9" font-size="14">C</text>
+<text x="425" y="108" text-anchor="end" fill="#c9d1d9" font-size="14">2.2%</text>
+<text x="22" y="131" fill="#c9d1d9" font-size="14">C++</text>
+<text x="425" y="131" text-anchor="end" fill="#c9d1d9" font-size="14">1.9%</text>
+<text x="22" y="154" fill="#c9d1d9" font-size="14">HTML</text>
+<text x="425" y="154" text-anchor="end" fill="#c9d1d9" font-size="14">1.7%</text>
+<text x="22" y="177" fill="#c9d1d9" font-size="14">Makefile</text>
+<text x="425" y="177" text-anchor="end" fill="#c9d1d9" font-size="14">1.4%</text>
+<text x="22" y="203" fill="#8b949e" font-size="10">Code bytes · public + private · non-fork repos · 2026-10-29 UTC</text></g></svg>

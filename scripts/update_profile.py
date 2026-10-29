@@ -1,6 +1,12 @@
-"""Generate repository-hosted profile cards from public GitHub API data."""
+"""Generate profile cards; --include-private adds private language totals.
+
+Run with GH_TOKEN or an authenticated GitHub CLI for private repositories.
+Only aggregate language percentages are written to the public card.
+"""
+import argparse
 import json
 import os
+import subprocess
 from collections import Counter
 from datetime import datetime, timezone
 from html import escape
@@ -11,7 +17,9 @@ USER = "Anuragkrosuru"
 ROOT = Path(__file__).resolve().parents[1]
 
 
-def api(path):
+def api(path, authenticated=False):
+    if authenticated and not os.environ.get("GH_TOKEN"):
+        return json.loads(subprocess.check_output(["gh", "api", path], text=True))
     headers = {"Accept": "application/vnd.github+json", "User-Agent": "profile-cards"}
     if os.environ.get("GH_TOKEN"):
         headers["Authorization"] = "Bearer " + os.environ["GH_TOKEN"]
@@ -34,31 +42,46 @@ def card(title, rows, note):
 
 
 def main():
-    user = api(f"/users/{USER}")
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--include-private", action="store_true")
+    args = parser.parse_args()
+    if args.include_private:
+        identity = api("/user", authenticated=True)
+        if identity["login"].lower() != USER.lower():
+            raise RuntimeError("Authenticate as the profile owner to include private repositories")
+    user = api(f"/users/{USER}", authenticated=args.include_private)
     repos = []
     page = 1
     while True:
-        batch = api(f"/users/{USER}/repos?per_page=100&type=owner&page={page}")
+        path = (f"/user/repos?per_page=100&affiliation=owner&visibility=all&page={page}"
+                if args.include_private else
+                f"/users/{USER}/repos?per_page=100&type=owner&page={page}")
+        batch = api(path, authenticated=args.include_private)
         repos.extend(batch)
         if len(batch) < 100:
             break
         page += 1
-    original = [repo for repo in repos if not repo["fork"]]
+    original = [repo for repo in repos if not repo["fork"]
+                and repo["owner"]["login"].lower() == USER.lower()]
+    public_original = [repo for repo in original if not repo["private"]]
     languages = Counter()
     for repo in original:
-        languages.update(api(f'/repos/{USER}/{repo["name"]}/languages'))
+        languages.update(api(f'/repos/{USER}/{repo["name"]}/languages',
+                             authenticated=args.include_private))
+    languages.pop("Jupyter Notebook", None)
     total = sum(languages.values())
     top = [(name, f"{size / total:.1%}") for name, size in languages.most_common(6)]
     date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     stats = [("Public repositories", user["public_repos"]),
-             ("Stars earned", sum(repo["stargazers_count"] for repo in original)),
-             ("Forks of my repositories", sum(repo["forks_count"] for repo in original)),
+             ("Stars earned", sum(repo["stargazers_count"] for repo in public_original)),
+             ("Forks of my repositories", sum(repo["forks_count"] for repo in public_original)),
              ("Followers", user["followers"])]
     assets = ROOT / "assets"
     assets.mkdir(exist_ok=True)
     # Fetch all data successfully before replacing either card.
     (assets / "github-stats.svg").write_text(card("GitHub statistics", stats, f"Public GitHub data · Updated {date} UTC"))
-    (assets / "top-languages.svg").write_text(card("Most-used languages", top, f"By code bytes in public, non-fork repositories · {date} UTC"))
+    scope = "public + private" if args.include_private else "public"
+    (assets / "top-languages.svg").write_text(card("Most-used languages", top, f"Code bytes · {scope} · non-fork repos · {date} UTC"))
 
 
 if __name__ == "__main__":

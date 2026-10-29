@@ -42,6 +42,6 @@
 <p align="center">
   <sub>Language percentages include public and private repositories, excluding forks, Jupyter notebooks, and Makefiles, and are based on code size.</sub>
   <br />
-  <sub>These stats reflect my personal GitHub repositories and don’t capture all of my work in jobs, internships, or company codebases.</sub>
+  <sub>These stats reflect my personal GitHub repositories and don’t capture my work in company codebases.</sub>
 </p>
 

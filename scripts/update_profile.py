@@ -69,6 +69,7 @@ def main():
         languages.update(api(f'/repos/{USER}/{repo["name"]}/languages',
                              authenticated=args.include_private))
     languages.pop("Jupyter Notebook", None)
+    languages.pop("Makefile", None)
     total = sum(languages.values())
     top = [(name, f"{size / total:.1%}") for name, size in languages.most_common(6)]
     date = datetime.now(timezone.utc).strftime("%Y-%m-%d")

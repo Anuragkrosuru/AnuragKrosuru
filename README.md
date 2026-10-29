@@ -40,6 +40,6 @@
 </p>
 
 <p align="center">
-  <sub>Language percentages include public and private repositories, excluding forks and Jupyter notebooks, and are based on code size.</sub>
+  <sub>Language percentages include public and private repositories, excluding forks, Jupyter notebooks, and Makefiles, and are based on code size.</sub>
 </p>
 

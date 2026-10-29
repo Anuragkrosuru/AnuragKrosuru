@@ -36,7 +36,7 @@
 ---
 
 <p align="center">
-  <img width="450" src="./assets/top-languages.svg?v=2" alt="Most-used languages across public and private repositories" />
+  <img width="450" src="./assets/language-summary.svg" alt="Most-used languages across public and private repositories" />
 </p>
 
 <p align="center">

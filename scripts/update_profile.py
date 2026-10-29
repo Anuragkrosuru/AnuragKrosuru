@@ -82,7 +82,7 @@ def main():
     # Fetch all data successfully before replacing either card.
     (assets / "github-stats.svg").write_text(card("GitHub statistics", stats, f"Public GitHub data · Updated {date} UTC"))
     scope = "public + private" if args.include_private else "public"
-    (assets / "top-languages.svg").write_text(card("Most-used languages", top, f"Code bytes · {scope} · non-fork repos · {date} UTC"))
+    (assets / "language-summary.svg").write_text(card("Most-used languages", top, f"Code bytes · {scope} · non-fork repos · {date} UTC"))
 
 
 if __name__ == "__main__":
